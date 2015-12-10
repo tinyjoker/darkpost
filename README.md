@@ -1,4 +1,4 @@
-# UpPost_nodejs (一个顶贴工具)
+# darkpost 
 ### the first nodejs version, can do following works
 ##### 1.login to douban(豆瓣) and record the cookie
 ##### 2.connect to LianZhong(联众打码) to get the value of the captcha image
